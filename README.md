@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma&label=Views&color=red" alt="aryansharma" /> </p>
 
-<a href="mailto: aryanksharma1729@gmail.com"><img src="https://img.shields.io/badge/-sindhuaniket%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://github.com/Aryans1729"><img src="https://img.shields.io/badge/aryansharma-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://x.com/ASharma1729"><img src="https://img.shields.io/badge/aryansharma-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
+<a href="mailto: aryanksharma1729@gmail.com"><img src="https://img.shields.io/badge/-aryanksharma1729@gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://github.com/Aryans1729"><img src="https://img.shields.io/badge/aryansharma-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://x.com/ASharma1729"><img src="https://img.shields.io/badge/aryansharma-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
 - 📫 How to reach me: [Twitter - @aniketsindhu0](https://x.com/ASharma1729)
 - 👋  Fun fact: I love hiphop music.
